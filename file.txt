@@ -1,1 +1,10 @@
-I like Pizza.
+Basicallly, I:
+
+1. Made a directory with mkdir.
+2. Then I used touch to make files in this directory.
+3. Then I staged these changes with git add.
+4. Then I checked these stages with git status.
+5. Then I committed these changes with git commit - m "message".
+6. Then I made a remote repository with git remote add origin https://github.com/<github username>/<github repo name>.git.
+5. Then I pushed the changes I had made to the remote repository with git push origin master.
+6. Then I checked and confirmed that all my changes were on my github site, and they were. 
